@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T20:07:06.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="Wk675XryQlsTi12c0FB1" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T22:34:55.492Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="9aetOVfHJgp8rb1dIcAO" version="15.3.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1558" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="779" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="190" y="122" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="WSD7EVR48k97SIQOQuv5-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.recovery_plan;" vertex="1" parent="1">
-          <mxGeometry x="340" y="40" width="26.28" height="36" as="geometry" />
+          <mxGeometry x="340" y="41" width="26.28" height="36" as="geometry" />
         </mxCell>
         <mxCell id="WSD7EVR48k97SIQOQuv5-7" value="generic_33v_300s_28d.txt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="333.14" y="76" width="40" height="20" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="333.14" y="158" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WSD7EVR48k97SIQOQuv5-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.recovery_plan;" vertex="1" parent="1">
-          <mxGeometry x="340" y="122" width="26.28" height="36" as="geometry" />
+          <mxGeometry x="340" y="123" width="26.28" height="36" as="geometry" />
         </mxCell>
         <mxCell id="WSD7EVR48k97SIQOQuv5-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.recovery_plan;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="26.28" height="36" as="geometry" />
@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WSD7EVR48k97SIQOQuv5-50" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="WSD7EVR48k97SIQOQuv5-50" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1" target="WSD7EVR48k97SIQOQuv5-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="400" as="sourcePoint" />
             <mxPoint x="310" y="941" as="targetPoint" />
@@ -125,6 +125,117 @@
               <mxPoint x="240" y="941" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-51" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1" target="WSD7EVR48k97SIQOQuv5-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="320" y="951" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-53" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="328.1399999999999" y="781.6662788442893" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-54" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="328.1399999999999" y="691.6662788442893" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-55" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="328.1399999999999" y="587.6662788442893" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="596" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-56" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="328.1399999999999" y="488.6662788442893" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="497" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-57" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="140" as="sourcePoint" />
+            <mxPoint x="339.9999999999999" y="318.6662788442893" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="319" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-58" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1" target="WSD7EVR48k97SIQOQuv5-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="140" as="sourcePoint" />
+            <mxPoint x="340" y="315.1662788442893" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-61" value="&lt;ul&gt;&lt;li&gt;Initial parameters of the sensortec library to calculate IAQ&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="41" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-62" value="&lt;ul&gt;&lt;li&gt;Minimal cascading style sheets file of the bootstrap framework&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="121" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-63" value="&lt;ul&gt;&lt;li&gt;Minimal javascript file of the bootstrap framework&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="180" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-64" value="&lt;ul&gt;&lt;li&gt;Html file of the web server&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="238" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-65" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="150" as="sourcePoint" />
+            <mxPoint x="340" y="198.95949266395615" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="183.05" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-66" value="&lt;ul&gt;&lt;li&gt;jQuery library to simplify the programming&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="300" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-68" value="&lt;ul&gt;&lt;li&gt;Library for managing the Blynk App, include functions to&amp;nbsp;send data to the App&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-69" value="&lt;ul&gt;&lt;li&gt;Library for calculate the value of CO2 particles in ppm given the pulse with miliseconds&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="459" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-70" value="&lt;ul&gt;&lt;li&gt;Library to manage the EEPROM, the program saves the SSID of the connected network as well as the password, also saves 10 samples of pressure every 10 minutes. This library comprises functions for save and retrieve.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="550" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-71" value="&lt;ul&gt;&lt;li&gt;Library containing string of messages regarding the alerts, suggestions and states of the sensor as well as functions to manage standard and Arduino strings.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="659" width="300" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-72" value="&lt;ul&gt;&lt;li&gt;Library to make the request of time and date to the NTP server, the library returns the strings containing a formatted date and another one for the current time.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="760" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-73" value="&lt;ul&gt;&lt;li&gt;Library to manage the LCD Screen functions.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="850" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-74" value="&lt;ul&gt;&lt;li&gt;Library to perform the calculations of the Zambretti forecast algorithm, it needs the current month as well as 6 out of 10 pressure samples&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="930" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSD7EVR48k97SIQOQuv5-75" value="&lt;ul&gt;&lt;li&gt;Main code&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1029" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
